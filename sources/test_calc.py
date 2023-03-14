@@ -4,6 +4,7 @@ import calc
 class TestCalc(unittest.TestCase):
     """
     Test the add function from the calc library
+    o sa punem pytest anplm
     """
 
     def test_add_integers(self):
